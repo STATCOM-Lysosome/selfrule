@@ -6,4 +6,4 @@ DOMAIN-SUFFIX,steamserver.net
 DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,amd.com
 DOMAIN-SUFFIX,cdn.ubi.com
-DOMAIN-SUFFIX,mtalk.google.com
+DOMAIN-WILDCARD,*mtalk.google.com
